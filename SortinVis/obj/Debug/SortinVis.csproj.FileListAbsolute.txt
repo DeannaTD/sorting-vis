@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\SortinVis\SortinVis\bin\Debug\SortinVis.exe.config
+C:\Users\User\source\repos\SortinVis\SortinVis\bin\Debug\SortinVis.exe
+C:\Users\User\source\repos\SortinVis\SortinVis\bin\Debug\SortinVis.pdb
+C:\Users\User\source\repos\SortinVis\SortinVis\obj\Debug\SortinVis.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SortinVis\SortinVis\obj\Debug\SortinVis.Properties.Resources.resources
+C:\Users\User\source\repos\SortinVis\SortinVis\obj\Debug\SortinVis.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SortinVis\SortinVis\obj\Debug\SortinVis.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SortinVis\SortinVis\obj\Debug\SortinVis.exe
+C:\Users\User\source\repos\SortinVis\SortinVis\obj\Debug\SortinVis.pdb
