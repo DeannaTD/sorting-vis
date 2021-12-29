@@ -235,18 +235,6 @@ namespace SortinVis
 
         public void InsertionSort()
         {
-            //int j = 0;
-            //for(int i = 1; i<N; i++)
-            //{
-            //    j = i;
-            //    while(j>0 && array[j-1] > array[j])
-            //    {
-            //        SwapValues(j, j - 1);
-            //        UpdateScreen();
-            //        j--;
-            //    }
-            //}
-            int c = 0;
             for(int i = 1; i<N; i++)
             {
                 for(int j = i; j>0; j--)
